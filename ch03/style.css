@@ -1,7 +1,20 @@
-h1 {
-    color: purple;
-    background: yellow;
+body {
+    background-color: #cc99FF;
 }
-h2{
-    color: yellow;
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+}
+
+#circle {
+    color: darkred;
+    font-size: 40px;
 }
