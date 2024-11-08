@@ -4,10 +4,25 @@ body {
     background-size: cover;
 }
 
-.container {
+html body div.container h1#foo {
     /* background: linear-gradient(to left, #00ccff, #b3f0ff);
     box-shadow: 3px 5px 3px black; */
+    color: red;
 }
+[id="foo"]{
+    color: cyan;
+}
+
+.container h1 {
+    color: red;
+}
+
+
+ h1 {
+    color: green !important;
+}
+
+
 
 h1, h2 , h3 {
     color: #ffffff;
