@@ -22,3 +22,12 @@ h2 {
 .borderImg {
     border-right: 2px dotted red;
 }
+
+ul li {
+    color: white;
+    font-size: 20px;
+}
+
+ul > li  {
+    color: yellow;
+}
